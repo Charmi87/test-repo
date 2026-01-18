@@ -1,4 +1,2 @@
-def divide_numbers(a, b):
-    if b == 0:
-        raise ValueError("Cannot divide by zero")
+def divide(a, b):
     return a / b
